@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ahoj</string>
+    <string name="submit_2">Submit_2</string>
+    <string name="submit_1">Submit_1</string>
+    <string name="speed">speed</string>
+    <string name="angle">angle</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="ball">Ball</string>
+</resources>
